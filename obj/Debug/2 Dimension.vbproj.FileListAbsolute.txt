@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\bin\Debug\2 Dimension.exe.config
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\bin\Debug\2 Dimension.exe
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\bin\Debug\2 Dimension.pdb
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\bin\Debug\2 Dimension.xml
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\obj\Debug\2 Dimension.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\obj\Debug\_2_Dimension.Form1.resources
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\obj\Debug\_2_Dimension.Resources.resources
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\obj\Debug\2 Dimension.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\obj\Debug\2 Dimension.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\obj\Debug\2 Dimension.exe
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\obj\Debug\2 Dimension.xml
+G:\52020007\Pemg Visual\Modul 5\2 Dimension\obj\Debug\2 Dimension.pdb
